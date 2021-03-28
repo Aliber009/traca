@@ -1,17 +1,13 @@
-# [Traccar Web Interface](https://www.traccar.org)
+# Web interface based on traccar
 
 ## Overview
-
-Traccar is open source server for various GPS tracking devices. This repository contains web interface for the Traccar platform. For back-end checkout [main Traccar repository](https://github.com/tananaev/traccar).
+ open source server for various GPS tracking devices. 
 
 ## New version
 
-A new version of the web app is under development alongside original web app. It will be available under Apache open source license. It uses React, Material UI and other modern web frameworks. Check [modern](https://github.com/traccar/traccar-web/tree/master/modern) folder for more details.
+A new version of the web app is under development alongside original web app. 
 
-## Team
 
-- Anton Tananaev ([anton@traccar.org](mailto:anton@traccar.org))
-- Andrey Kunitsyn ([andrey@traccar.org](mailto:andrey@traccar.org))
 
 ## License
 
